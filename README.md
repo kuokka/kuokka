@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**kuokka/kuokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?height=270&type=waving&color=gradient&customColorList=0,2,2,5,30&text=Kuokka)
 
-Here are some ideas to get you started:
+<h3 align="center">
+  💻  Skils
+</h3>
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/C/C++-FF9900?logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Python-FF6600?logo=python"/>
+  <img src="https://img.shields.io/badge/Linux-blue?logo=linux"/>
+  <img src="https://img.shields.io/badge/Shell-33CCFF?logo=powershell"/>
+  <img src="https://img.shields.io/badge/Git-66FF99?logo=git"/>
+</p>
+<br />
+<h3 align="center">
+  📝  공부 기록
+</h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.notion.so/f65c9bf5a268490f87f9b5aa5f4333bc"> 
+    <img src="https://img.shields.io/badge/notion link-리눅스%20커널구조-FFE5CC?style=for-the-badge&logo=notion"/>
+  </a>
+  <br />
+  <a href="https://www.notion.so/757fb3ae7f7747baae3d3ab0066ae6e6"> 
+    <img src="https://img.shields.io/badge/notion link-소켓%20프로그래밍-FFE5CC?style=for-the-badge&logo=notion"/>
+  </a>
+</p>
+
