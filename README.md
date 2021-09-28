@@ -30,4 +30,7 @@
 <hr />
 
 [![42seoul](https://img.shields.io/badge/42_Seoul-gray?&logo=42)](https://42seoul.kr/seoul42/main/view)
-[![UOS](https://img.shields.io/badge/university_of_seoul-gray)](https://www.uos.ac.kr/main.do)
+* 
+
+[![University of Seoul](https://img.shields.io/badge/university_of_seoul-gray)](https://www.uos.ac.kr/main.do)
+*
