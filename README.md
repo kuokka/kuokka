@@ -29,8 +29,11 @@
 
 <hr />
 
-[![42seoul](https://img.shields.io/badge/42Seoul-gray?&logo=42)](https://42seoul.kr/seoul42/main/view) \
-* asdf
+[![42seoul](https://img.shields.io/badge/42Seoul-gray?&logo=42)](https://42seoul.kr/seoul42/main/view) 
+* Cadet 
 
-[![University of Seoul](https://img.shields.io/badge/university_of_seoul-gray)](https://www.uos.ac.kr/main.do) \
-* asdf
+[![University of Seoul](https://img.shields.io/badge/uos_parlab-gray)](https://www.uos.ac.kr/main.do) 
+* `2022.06 ~ 2020.11` Research Assistant (Intern)
+
+[![University of Seoul](https://img.shields.io/badge/university_of_seoul-gray)](https://www.uos.ac.kr/main.do) 
+* `2015.03 ~ now` Undergraduate Student at ece
