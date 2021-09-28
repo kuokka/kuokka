@@ -33,7 +33,7 @@
 * Cadet 
 
 [![University of Seoul](https://img.shields.io/badge/uos_parlab-gray)](https://www.uos.ac.kr/main.do) 
-* `2022.06 ~ 2020.11` Research Assistant (Intern)
+* Research Assist Student
 
 [![University of Seoul](https://img.shields.io/badge/university_of_seoul-gray)](https://www.uos.ac.kr/main.do) 
-* `2015.03 ~ now` Undergraduate Student at ece
+* Undergraduate Student at ece
