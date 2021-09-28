@@ -29,11 +29,8 @@
 
 <hr />
 
-[![42seoul](https://img.shields.io/badge/42Seoul-gray?&logo=42)](https://42seoul.kr/seoul42/main/view) 
-* Cadet 
+[![42seoul](https://img.shields.io/badge/42Seoul-Cadet-white?style=flat&logo=42&)](https://42seoul.kr/seoul42/main/view)
+[![University of Seoul](https://img.shields.io/badge/university_of_seoul-Student-white?style=flat)](https://www.uos.ac.kr/main.do) 
+[![University of Seoul](https://img.shields.io/badge/UOS_Parallel_SW_Lab-Research_Assistant-white?style=flat)](https://www.uos.ac.kr/main.do) 
 
-[![University of Seoul](https://img.shields.io/badge/uos_parlab-gray)](https://www.uos.ac.kr/main.do) 
-* Research Assist Student
 
-[![University of Seoul](https://img.shields.io/badge/university_of_seoul-gray)](https://www.uos.ac.kr/main.do) 
-* Undergraduate Student at ece
