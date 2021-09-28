@@ -33,4 +33,3 @@
 [![University of Seoul](https://img.shields.io/badge/university_of_seoul-Student-white?style=flat)](https://www.uos.ac.kr/main.do) 
 [![University of Seoul](https://img.shields.io/badge/UOS_Parallel_SW_Lab-Research_Assistant-white?style=flat)](https://www.uos.ac.kr/main.do) 
 
-
