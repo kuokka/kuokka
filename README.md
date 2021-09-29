@@ -18,11 +18,11 @@
   📝  공부 기록
 </h3>
 <p align="center">
-  <a href="https://www.notion.so/f65c9bf5a268490f87f9b5aa5f4333bc"> 
+  <a href="https://carpal-fender-9d3.notion.site/f65c9bf5a268490f87f9b5aa5f4333bc"> 
     <img src="https://img.shields.io/badge/notion link-리눅스%20커널구조-FFE5CC?style=for-the-badge&logo=notion"/>
   </a>
   <br />
-  <a href="https://www.notion.so/757fb3ae7f7747baae3d3ab0066ae6e6"> 
+  <a href="https://carpal-fender-9d3.notion.site/757fb3ae7f7747baae3d3ab0066ae6e6"> 
     <img src="https://img.shields.io/badge/notion link-소켓%20프로그래밍-FFE5CC?style=for-the-badge&logo=notion"/>
   </a>
 </p>
