@@ -19,7 +19,7 @@
 </h3>
 <p align="center">
   <a href="https://carpal-fender-9d3.notion.site/f65c9bf5a268490f87f9b5aa5f4333bc"> 
-    <img src="https://img.shields.io/badge/notion link-리눅스%20커널구조-FFE5CC?style=for-the-badge&logo=notion"/>
+    <img src="https://img.shields.io/badge/notion link-linux-FFE5CC?style=for-the-badge&logo=notion"/>
   </a>
 </p>
 
