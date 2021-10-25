@@ -14,14 +14,6 @@
 
 <br />
 
-<h3 align="center">
-  📝  공부 기록
-</h3>
-<p align="center">
-  <a href="https://carpal-fender-9d3.notion.site/f65c9bf5a268490f87f9b5aa5f4333bc"> 
-    <img src="https://img.shields.io/badge/notion link-linux-FFE5CC?style=for-the-badge&logo=notion"/>
-  </a>
-</p>
 
 <hr />
 
