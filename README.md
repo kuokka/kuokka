@@ -5,14 +5,22 @@
   💻  Skils
 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C/C++-FF9900?logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/C/C++-green?logo=cplusplus"/>
   <img src="https://img.shields.io/badge/Python-FF6600?logo=python"/>
   <img src="https://img.shields.io/badge/Linux-blue?logo=linux"/>
   <img src="https://img.shields.io/badge/Shell-33CCFF?logo=powershell"/>
+    <img src="https://img.shields.io/badge/Java-FF9900?logo=java"/>
+
 </p>
 
 <br />
 
+  <h3 align="center">
+    🏢 Work
+  </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Naver-2021.12_~-green?logo=naver"/>
+</p>
 
 <hr />
 
