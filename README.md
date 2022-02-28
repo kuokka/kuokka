@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?height=270&type=waving&color=gradient&customColorList=0,2,2,5,30&text=Kuokka)
 
 <h3 align="center">
-  💻  Skils
+  💻  I Like
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C/C++-green?logo=cplusplus"/>
